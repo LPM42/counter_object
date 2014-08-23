@@ -1,0 +1,26 @@
+{
+  "name": "counter_object",
+  "version": "0.0.0",
+  "description": "can increment() and getValue()",
+  "main": "counter_object.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LPM42/counter_object.git"
+  },
+  "author": "Livingston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LPM42/counter_object/issues"
+  },
+  "homepage": "https://github.com/LPM42/counter_object",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
