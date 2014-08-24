@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/LPM42/counter_object.svg?branch=travisCL)](https://travis-ci.org/LPM42/counter_object)
+
 Counter Object
 ========================
 Uses:
