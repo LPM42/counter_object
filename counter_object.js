@@ -4,10 +4,10 @@ var counterObject = function() {
   this.increment = function() {
     count++;
     return count;
-  }
+  };
   this.getValue = function() {
     return count;
-  }
+  };
 };
 
 module.exports = counterObject;
