@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt --verbose"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,9 @@
   "homepage": "https://github.com/LPM42/counter_object",
   "devDependencies": {
     "chai": "^1.9.1",
+    "grunt": "0.4.1",
+    "grunt-cli": "0.1.9",
+    "grunt-contrib-jshint": "^0.10.0",
     "mocha": "^1.21.4"
   }
 }
